@@ -1,0 +1,1 @@
+twilio==6.87.5  # Make sure to use the latest version available when creating the file
